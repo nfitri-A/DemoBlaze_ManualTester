@@ -1,0 +1,17 @@
+1. Test run Contact Menu 2024/09/14
+https://app.qase.io/public/report/e75cd165670f5c056cc5cc7aef1745821de2f8f0
+
+2. Test run About us menu 2024/09/14
+https://app.qase.io/public/report/d1877cbba154b83ff729f94231afe7150806a1a8
+
+3. Test run Sign Up2024/09/14
+https://app.qase.io/public/report/a68a1b47f83eee0bc32eff8b9008b3286b6ca23d
+
+4. Test run Login 2024/09/14
+https://app.qase.io/public/report/e119e0a5101b8e467a2b2da74fc4fe653d8aa9b2
+
+5. Test run Checkout 2024/09/14
+https://app.qase.io/public/report/caa7110351d23f7297542371f1bf06ff33d6b298
+
+6. Test run Log Out 2024/09/14
+https://app.qase.io/public/report/329c66a24dd065908095cf107376dfe157fdf7ab
